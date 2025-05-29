@@ -27,3 +27,8 @@
 I'm 18 years old, from Brazil with plans to live abroad to improve my work and a good quality life 🧑🏻. I'm looking some works in the area of technology to learn more and earn experience 💼.
 </p>
 
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mthsamnet/mthsament/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mthsament/mthsament/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake.svg">
+</picture>
