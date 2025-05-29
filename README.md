@@ -8,7 +8,7 @@ I'm 18 years old, from Brazil with plans to live abroad to improve my work and a
 <p> Dev in training Full-Stack⌛ </p>
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mths_ament04/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/matheus-ament-correa)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-ament-correa/)
 [![Portfólio](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)]()
 
 ![mthsament GitHub stats](https://github-readme-stats.vercel.app/api?username=mthsament&show_icons=true&theme=radical)
