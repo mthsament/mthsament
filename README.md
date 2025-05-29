@@ -2,6 +2,9 @@
 
 
 ## 🚀About me:
+<p> I'm a student of System Information, fassionate in technolgy and in the future i'll be a Dev. Full Stack!🖥️ </br>
+I'm 18 years old, from Brazil with plans to live abroad to improve my work and a good quality life 🧑🏻. I'm looking some works in the area of technology to learn more and earn experience 💼.
+</p>
 <p> Dev in training Full-Stack⌛ </p>
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mths_ament04/)
@@ -22,10 +25,6 @@
 
 <p>loading...</p>
 </div></br>
-
-<p> I'm a student of System Information, fassionate in technolgy and in the future i'll be a Dev. Full Stack!🖥️ </br>
-I'm 18 years old, from Brazil with plans to live abroad to improve my work and a good quality life 🧑🏻. I'm looking some works in the area of technology to learn more and earn experience 💼.
-</p>
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mthsament/mthsament/output/github-contribution-grid-snake-dark.svg">
