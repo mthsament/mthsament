@@ -1,6 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=17&letterSpacing=1px&pause=1007&color=6491de&width=650&height=50&lines=</+Hello+World%2C+I'm+Matheus+Ament+>)](https://git.io/typing-svg)
 
-
 ## 🚀About me:
 <p> I'm a student of System Information, fassionate in technolgy and in the future i'll be a Dev. Full Stack!🖥️ </br>
 I'm 18 years old, from Brazil with plans to live abroad to improve my work and a good quality life 🧑🏻. I'm looking some works in the area of technology to learn more and earn experience 💼.
