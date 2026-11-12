@@ -1,32 +1,69 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=17&letterSpacing=1px&pause=1007&color=6491de&width=650&height=50&lines=</+Hello+World%2C+I'm+Matheus+Ament+>)](https://git.io/typing-svg)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:5b8def,100:8b5cf6&height=220&section=header&text=Matheus&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Transformando%20dados%20e%20automa%C3%A7%C3%B5es%20em%20solu%C3%A7%C3%B5es&descSize=18&descAlignY=60" width="100%" />
 
-## 🚀About me:
-<p> I'm a student of System Information, fassionate in technolgy and in the future i'll be a Dev. Full Stack!🖥️ </br>
-I'm 18 years old, from Brazil with plans to live abroad to improve my work and a good quality life 🧑🏻. I'm looking some works in the area of technology to learn more and earn experience 💼.
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=Full+Stack+em+forma%C3%A7%C3%A3o;Infra+%26+Automa%C3%A7%C3%A3o;Rumo+a+IA+%26+Dados" /></a>
 </p>
-<p> Dev Full-Stack in training ⌛ </p>
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mths_ament04/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-ament-correa/)
-[![Portfólio](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)]()
+## 💫 Sobre mim
 
-![mthsament GitHub stats](https://github-readme-stats.vercel.app/api?username=mthsament&show_icons=true&theme=radical)
+<table>
+<tr>
+<td width="60%">
 
-## Languages ​​and Technologies 🤖🖥️
+### 👨‍💻 Desenvolvedor em formação
 
-<div style="display:inline block"></br> 
-<img align="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
-<img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-<img align="center" alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-<img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-<img align="center" alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
-<img align="center" alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+Estudante de Sistemas de Informação, com foco em desenvolvimento web, banco de dados e automação de processos. Trabalho com infraestrutura corporativa e uso essa experiência para criar soluções que economizam tempo.
 
-<p>loading...</p>
-</div></br>
+🚀 **Atualmente:** aprofundando Python, SQL e IA, e buscando oportunidades para crescer na área e, no futuro, atuar internacionalmente.
 
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mthsament/mthsament/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mthsament/mthsament/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake.svg">
-</picture>
+</td>
+<td width="40%" align="center">
+  <img src="URL_DA_SUA_ILUSTRACAO" width="300" />
+</td>
+</tr>
+</table>
+
+## 🌐 Redes
+
+<p>
+  <a href="SEU_LINK"><img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="SEU_LINK"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:SEU_EMAIL"><img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+</p>
+
+## 💻 Tecnologias
+
+![Python](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/REACT-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Java](https://img.shields.io/badge/JAVA-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![PowerShell](https://img.shields.io/badge/POWERSHELL-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+![n8n](https://img.shields.io/badge/N8N-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/LINUX-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+## 📌 Projetos em destaque
+
+<table>
+<tr>
+<td><a href="LINK_REPO_1"><b>Nome do projeto 1</b></a><br>Uma frase sobre o que resolve<br><sub>React • Vite</sub></td>
+<td><a href="LINK_REPO_2"><b>Nome do projeto 2</b></a><br>Uma frase sobre o que resolve<br><sub>Python</sub></td>
+<td><a href="LINK_REPO_3"><b>Nome do projeto 3</b></a><br>Uma frase sobre o que resolve<br><sub>PowerShell</sub></td>
+</tr>
+</table>
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=mthsament&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mthsament&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=mthsament&theme=tokyonight&hide_border=true&background=0d1117" />
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8b5cf6,100:0d1117&height=120&section=footer" width="100%" />
