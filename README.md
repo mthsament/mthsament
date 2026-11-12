@@ -18,7 +18,7 @@ Estudante de Sistemas de Informação, com foco em desenvolvimento web, banco de
 
 </td>
 <td width="40%" align="center">
-  <img src="URL_DA_SUA_ILUSTRACAO" width="300" />
+  <img src="./mths_programando.jpg" width="280" />
 </td>
 </tr>
 </table>
