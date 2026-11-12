@@ -50,7 +50,7 @@ Estudante de Sistemas de Informação, com foco em desenvolvimento web, banco de
 
 <table>
 <tr>
-<td><a href="(https://github.com/KaioAmim/TeachLi)"><bTeachLi</b></a><br>Inclusão de alunos surdos em sala de aula<br><sub>React • Vite</sub></td>
+<td><a href="https://github.com/KaioAmim/TeachLi"><bTeachLi</b></a><br>Inclusão de alunos surdos em sala de aula<br><sub>React • Vite</sub></td>
 <td><a href="LINK_REPO_2"><b>Nome do projeto 2</b></a><br>Uma frase sobre o que resolve<br><sub>Python</sub></td>
 <td><a href="LINK_REPO_3"><b>Nome do projeto 3</b></a><br>Uma frase sobre o que resolve<br><sub>PowerShell</sub></td>
 </tr>
