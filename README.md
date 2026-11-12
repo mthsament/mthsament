@@ -59,11 +59,9 @@ Estudante de Sistemas de Informação, com foco em desenvolvimento web, banco de
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=mthsament&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mthsament&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+  <img height="180" src="./profile-summary-card-output/tokyonight/3-stats.svg" />
+  <img height="180" src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" />
 </p>
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=mthsament&theme=tokyonight&hide_border=true&background=0d1117" />
 </p>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8b5cf6,100:0d1117&height=120&section=footer" width="100%" />
