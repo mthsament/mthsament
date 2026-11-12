@@ -27,7 +27,7 @@ Estudante de Sistemas de Informação, com foco em desenvolvimento web, banco de
 
 <p>
   <a href="https://www.instagram.com/mths_ament04?psln=anR2ZGtybWZkb3Br&utm_source=qr"><img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-  <a href="www.linkedin.com/in/matheus-ament-correa"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="[www.linkedin.com/in/matheus-ament-correa](https://www.linkedin.com/in/matheus-ament-correa/)"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="mailto:mthsament04@gmail.com"><img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
