@@ -54,7 +54,8 @@ Estudante de Sistemas de Informação, com foco em desenvolvimento web, banco de
 <table>
 <tr>
 <td><a href="https://github.com/KaioAmim/TeachLi"><b>TeachLi</b></a><br>Inclusão de alunos surdos em sala de aula<br><sub>React • Vite</sub></td>
-<td><a href="LINK_REPO_2"><b>Nome do projeto 2</b></a><br>Uma frase sobre o que resolve<br><sub>Python</sub></td>
+<td><a href="https://mthsament.github.io/FOCO/)"><b>FOCO</b></a><br>FOCO é um app web (PWA) para acompanhar dieta, treino e corrida num lugar só. Ele é instalável no celular e funciona offline.<\br><sub>![Uploading image.png…]()
+</sub></td>
 <td><a href="LINK_REPO_3"><b>Nome do projeto 3</b></a><br>Uma frase sobre o que resolve<br><sub>PowerShell</sub></td>
 </tr>
 </table>
