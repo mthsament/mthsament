@@ -68,3 +68,10 @@ Estudante de Sistemas de Informação, com foco em desenvolvimento web, banco de
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=mthsament&theme=tokyonight&hide_border=true&background=0d1117" />
 </p>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mthsament/mthsament/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mthsament/mthsament/output/github-snake.svg" />
+    <img alt="Cobrinha comendo as contribuições" src="https://raw.githubusercontent.com/mthsament/mthsament/output/github-snake-dark.svg" />
+  </picture>
+</p>
